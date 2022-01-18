@@ -25,7 +25,7 @@
 * **d** makes the player move right
 * The game ends when the player gets to **E**
 
-
+## Ensure you reference my GitHub repository if my work or code is used.
 
 
 # Video link
